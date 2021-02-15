@@ -73,6 +73,7 @@
     "postcss-import": "^14.0.0",
     "postcss-loader": "^5.0.0",
     "prettier": "^2.2.1",
+    "purgecss-webpack-plugin": "^4.0.0",
     "react-refresh": "^0.9.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
